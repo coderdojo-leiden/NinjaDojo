@@ -2,7 +2,7 @@
 
 Om met Unity aan de gang te kunnen gaan, moet je Unity eerst downloaden en installeren.
 - Je kunt Unity downloaden van de website van [Unity](https://store.unity.com/download-nuo)
-- Je kunt Unity ook downloaden van de CoderDojo Leiden website: [voor Windows](https://drive.google.com/open?id=1A7AqLffk6Q0MLp4Bi2jXlxQUoAVDTDPp) of [voor macOS](https://drive.google.com/open?id=1402XvKkLAa_swoIGY7eE7kLXkcmIT8vJ)
+- Je kunt Unity ook downloaden van de CoderDojo Leiden website: [voor Windows](https://drive.google.com/file/d/1gWbps6tvFmLV7eW9PDzKFZwhp3Jml0hb/view?usp=sharing) of [voor macOS](https://drive.google.com/file/d/17bBCvVmHiTN304t2kfLjvfIDbicbOYuh/view?usp=sharing)
 
 Je moet voor Unity ook een account aanmaken.
 - Je kunt je aanmelden op de website van [Unity](https://id.unity.com/en/conversations/a27c5f66-d529-4a0f-a1ee-807ad92af4c001af)
